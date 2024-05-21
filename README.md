@@ -8,10 +8,10 @@ V4 版本
 
 ```shell
 
-#实时预览
+# 实时预览
 gitbook serve
 
-#输出文档
+# 输出文档
 gitbook build
 
 ```
